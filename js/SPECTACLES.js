@@ -103,8 +103,8 @@ var SPECTACLES = function (divToBind, jsonFileData, callback) {
         SPECT.viewerDiv.append(
             "<div class='Spectacles_Footer'>" +
             "<img src='http://ricktitulaer.github.io/Parameterspace/img/Arup.png'> " +
-            "Spectacles is developed by the <a href='http://core.thorntontomasetti.com/' target='blank'>CORE studio</a>.  " +
-            "Copyright <a href='http://thorntontomasetti.com/' target='blank'>Thornton Tomasetti</a> 2015." +
+            "This page is updated by <a href='https://github.com/ricktitulaer/Spaceviewer' target='blank'>Arup</a>.  " +
+            "Copyright <a href='https://github.com/ricktitulaer/Spaceviewer/blob/master/LICENSE.txt' target='blank'>Thornton Tomasetti</a> 2015." +
             "</div>");
         //function to position footer
         var setFooter = function(){
