@@ -102,7 +102,7 @@ var SPECTACLES = function (divToBind, jsonFileData, callback) {
         //append a footer.  Feel free to strip this out if you'd like to! ;]
         SPECT.viewerDiv.append(
             "<div class='Spectacles_Footer'>" +
-            "<img src='https://raw.githubusercontent.com/tt-acm/Spectacles.WebViewer/gh-pages/docs/SPECTACLES_20px.png'> " +
+            "<img src='http://ricktitulaer.github.io/Parameterspace/img/Arup.png'> " +
             "Spectacles is developed by the <a href='http://core.thorntontomasetti.com/' target='blank'>CORE studio</a>.  " +
             "Copyright <a href='http://thorntontomasetti.com/' target='blank'>Thornton Tomasetti</a> 2015." +
             "</div>");
