@@ -34,13 +34,13 @@ $(document).ready(function(){
 
             //call the UI / functionality modules
             app.setBackgroundColor(0xFFFFFF);
-            //app.userInterface();
-            //app.openLocalFiles();
-            //app.sceneUI();
-            //app.lightingUI();
-            //app.viewAndSelectionUI();
-            //app.viewsUI();
-            //app.layersUI();
+            app.userInterface();
+            app.openLocalFiles();
+            app.sceneUI();
+            app.lightingUI();
+            app.viewAndSelectionUI();
+            app.viewsUI();
+            app.layersUI();
         });
     });
 
