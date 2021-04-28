@@ -102,7 +102,7 @@ var SPECTACLES = function (divToBind, jsonFileData, callback) {
         //append a footer.  Feel free to strip this out if you'd like to! ;]
         SPECT.viewerDiv.append(
             "<div class='Spectacles_Footer'>" +
-            "<img style='max-height:20px; max-width:150px; padding-top: 10px;' src='https://ricktitulaer.github.io/Spaceviewer/img/Arup.png'> " +
+            "<img style='max-height:60px; max-width:350px; padding-top: 10px;' src='https://ricktitulaer.github.io/Spaceviewer/img/Arup.png'> " +
             "This page is updated by <a href='https://github.com/ricktitulaer/Spaceviewer' target='blank'>Arup</a>.  " +
             "Copyright <a href='https://github.com/ricktitulaer/Spaceviewer/blob/master/LICENSE.txt' target='blank'>TT</a> 2015." +
             "</div>");
