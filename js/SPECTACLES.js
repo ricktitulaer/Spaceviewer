@@ -118,7 +118,7 @@ var SPECTACLES = function (divToBind, jsonFileData, callback) {
 
             //set the position
             targetDiv.css('left', x.toString() + "px");
-            targetDiv.css('top', (y - 25).toString() + "px");
+            targetDiv.css('top', (y - 75).toString() + "px");
         };
         //call the first time through
         setFooter();
