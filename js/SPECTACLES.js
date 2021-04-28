@@ -104,7 +104,7 @@ var SPECTACLES = function (divToBind, jsonFileData, callback) {
             "<div class='Spectacles_Footer'>" +
             "<img style='max-height:60px; max-width:350px; padding-top: 10px;' src='https://ricktitulaer.github.io/Spaceviewer/img/Arup.png'> " +
             "This page is updated by <a href='https://github.com/ricktitulaer/Spaceviewer' target='blank'>Arup</a>.  " +
-            "Copyright <a href='https://github.com/ricktitulaer/Spaceviewer/blob/master/LICENSE.txt' target='blank'>Thornton Tomasetti</a> 2015." +
+            "Copyright <a href='https://github.com/ricktitulaer/Spaceviewer/blob/master/LICENSE.txt' target='blank'>TT</a> 2015." +
             "</div>");
         //function to position footer
         var setFooter = function(){
